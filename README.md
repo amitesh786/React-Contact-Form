@@ -1,4 +1,4 @@
-# Learn Raw React
+# Issues
 
 This repository holds the solution for the final exercise of [Learn](https://github.com/amitesh786/React-Contact-Form).
 
